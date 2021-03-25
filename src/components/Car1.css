@@ -1,0 +1,22 @@
+.car1 {
+  width: 100%;
+}
+.caritem1 {
+  width: 80%;
+  margin: auto;
+  float: none;
+}
+
+img {
+  padding: 30px;
+}
+.carousel-control-next {
+  background-color: black;
+  width: 100px;
+  height: 100px;
+}
+.carousel-control-prev {
+  background-color: black;
+  width: 100px;
+  height: 100px;
+}

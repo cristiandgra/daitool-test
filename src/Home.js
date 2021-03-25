@@ -1,5 +1,6 @@
 import React from "react";
 import { Cards } from "./components/Cards";
+import { Car1 } from "./components/Carousel";
 
 import { Jumbo } from "./ui/Jumbotron";
 import { Jumbo2 } from "./ui/Jumbotron2";
@@ -14,6 +15,7 @@ export const Home = () => {
       <Jumbo />
       <Jumbo2 />
       <Cards />
+      <Car1 />
     </div>
   );
 };

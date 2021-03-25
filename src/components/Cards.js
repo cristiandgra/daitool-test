@@ -20,8 +20,6 @@ export const Cards = () => {
             </Card.Body>
           </Card>
         </Col>
-      </Row>
-      <Row>
         <Col>
           <Card
             className="card"
@@ -33,8 +31,6 @@ export const Cards = () => {
             </Card.Body>
           </Card>
         </Col>
-      </Row>
-      <Row>
         <Col>
           <Card className="card" style={{ backgroundImage: `url(${tools})` }}>
             <Card.Body>
@@ -44,6 +40,7 @@ export const Cards = () => {
           </Card>
         </Col>
       </Row>
+
       <Row>
         <Col>
           <Card
@@ -56,8 +53,7 @@ export const Cards = () => {
             </Card.Body>
           </Card>
         </Col>
-      </Row>
-      <Row>
+
         <Col>
           <Card
             className="card"
@@ -69,8 +65,7 @@ export const Cards = () => {
             </Card.Body>
           </Card>
         </Col>
-      </Row>
-      <Row>
+
         <Col>
           <Card className="card" style={{ backgroundImage: `url(${office})` }}>
             <Card.Body>

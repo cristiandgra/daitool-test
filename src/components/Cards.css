@@ -1,9 +1,9 @@
 .card {
-  width: 500px;
   height: 174px;
   border-radius: 15px;
   margin: 10px;
   border: none;
+  width: 380px;
 }
 
 .card-title {
