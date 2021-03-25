@@ -1,0 +1,20 @@
+#jumbo1 {
+  height: 620px;
+  background-image: url("../img/tools.png");
+}
+
+#j1h1 {
+  color: #ffffff;
+  font-family: Mulish;
+}
+#j1h2 {
+  color: #ffffff;
+  font-family: Mulish;
+  font-style: ExtraLight;
+}
+.btn-jumbo {
+  color: #ff723d;
+  text-decoration: underline;
+  border: none;
+  background: none;
+}

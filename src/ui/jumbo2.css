@@ -1,0 +1,31 @@
+#jumbo2 {
+  width: 80%;
+  background-image: url("../img/card.png");
+  height: 350px;
+  margin: 49px 150px 53px 150px;
+  border-radius: 30px;
+}
+#j2h6 {
+  color: #ff723d;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 20px;
+}
+#j2h1 {
+  color: #000000;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 46px;
+  line-height: 62px;
+}
+#textj2 {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 30px;
+  color: #3d3d3d;
+}

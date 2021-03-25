@@ -1,16 +1,19 @@
 import React from "react";
 import { Jumbotron, Button } from "react-bootstrap";
 
+import "./jumbo.css";
+
 export const Jumbo = () => {
   return (
-    <Jumbotron style={{ background_color: "red" }}>
-      <h1>Hello, world!</h1>
+    <Jumbotron id="jumbo1">
+      <div>
+        <h1 id="j1h1">New Products</h1>
+      </div>
+      <div>
+        <h2 id="j1h2">Japan</h2>
+      </div>
       <p>
-        This is a simple hero unit, a simple jumbotron-style component for
-        calling extra attention to featured content or information.
-      </p>
-      <p>
-        <Button variant="primary">Learn more</Button>
+        <Button className="btn-jumbo">Discover now</Button>
       </p>
     </Jumbotron>
   );
