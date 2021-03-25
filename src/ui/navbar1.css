@@ -1,0 +1,29 @@
+#navbar1 {
+  background-color: #ff723d;
+}
+#logo {
+  margin-left: 60px;
+}
+.mr-sm-2 {
+  width: 529px;
+  height: 20px;
+  border-radius: 20px;
+}
+#person {
+  font-size: 35px;
+  color: #ffffff;
+}
+#cart {
+  font-size: 30px;
+  color: #ffffff;
+}
+
+#usd {
+  color: white;
+  font-size: 14px;
+  width: 84px;
+  height: 18px;
+  margin-left: 10px;
+  padding-top: 40px;
+  cursor: pointer;
+}
