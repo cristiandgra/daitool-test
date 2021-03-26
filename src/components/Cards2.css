@@ -1,0 +1,35 @@
+.container2 {
+  margin-top: 20px;
+}
+.card2 {
+  background: #ffffff;
+  border: 1px solid #e7e7e7;
+  border-radius: 14px;
+  width: 18%;
+}
+
+.card-img-top {
+  width: 40px;
+  height: 35px;
+  margin: auto;
+  padding: 0px;
+}
+
+.card-title-2 {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 32px;
+  color: #000000;
+  text-align: center;
+}
+.card-subtitle-2 {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
+  color: #c4c4c4;
+}

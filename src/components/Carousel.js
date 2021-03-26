@@ -1,6 +1,6 @@
 import React from "react";
 import { Carousel } from "react-bootstrap";
-import "./Car1.css";
+import "./Carousel1.css";
 
 import Pentel from "../img/pentel-logo.png";
 import Anex from "../img/anex-logo.png";
