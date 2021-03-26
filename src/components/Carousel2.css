@@ -1,0 +1,68 @@
+.carousel2 {
+  background: #f9f9fb;
+  margin-top: 50px;
+  width: 100%;
+}
+
+.card3 {
+  background: #ffffff;
+  box-shadow: 0px 5px 6px rgba(0, 0, 0, 0.06);
+  border-radius: 30px;
+  height: 480px;
+  width: 340px;
+}
+.card-t {
+  background: #f9f9fb;
+  width: 258px;
+  height: 120px;
+  padding-top: 120px;
+  margin-right: 100px;
+}
+.card-title-t {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 42px;
+  color: #000000;
+}
+.card-text1 {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 28px;
+  color: #ff723d;
+}
+.card-text2 {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  color: #8d8d8d;
+  text-decoration: line-through;
+}
+
+.saw {
+  width: 285px;
+  height: 285px;
+  left: 32px;
+  top: 16px;
+}
+.card-title-3 {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 32px;
+  color: #000000;
+}
+.card-subtitle-3 {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 28px;
+  color: #8d8d8d;
+}

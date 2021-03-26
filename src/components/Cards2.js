@@ -13,7 +13,7 @@ export const Cards2 = () => {
     <Container className="container2">
       <Row>
         <Card className="card2">
-          <Card.Img variant="top" src={Efficent} id="#imgcard2" />
+          <Card.Img variant="top" src={Efficent} />
           <Card.Body>
             <Card.Title className="card-title-2">Efficient</Card.Title>
             <Card.Subtitle className="card-subtitle-2">

@@ -2,6 +2,7 @@ import React from "react";
 import { Cards } from "./components/Cards";
 import { Cards2 } from "./components/Cards2";
 import { Car1 } from "./components/Carousel";
+import { Carousel2 } from "./components/Carousel2";
 
 import { Jumbo } from "./ui/Jumbotron";
 import { Jumbo2 } from "./ui/Jumbotron2";
@@ -18,6 +19,7 @@ export const Home = () => {
       <Cards />
       <Car1 />
       <Cards2 />
+      <Carousel2 />
     </div>
   );
 };

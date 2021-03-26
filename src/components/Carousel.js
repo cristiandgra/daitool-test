@@ -20,14 +20,6 @@ export const Car1 = () => {
         <img className="carousel1" src={Tone} alt="First slide" />
         <img className="carousel1" src={Anex} alt="First slide" />
       </Carousel.Item>
-      <Carousel.Item className="caritem1">
-        <img className="carousel1" src={Pentel} alt="First slide" />
-        <img className="carousel1" src={Olfa} alt="First slide" />
-        <img className="carousel1" src={Vessel} alt="First slide" />
-        <img className="carousel1" src={Mitutoyo} alt="First slide" />
-        <img className="carousel1" src={Tone} alt="First slide" />
-        <img className="carousel1" src={Anex} alt="First slide" />
-      </Carousel.Item>
     </Carousel>
   );
 };
