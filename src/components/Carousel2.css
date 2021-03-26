@@ -17,6 +17,7 @@
   height: 120px;
   padding-top: 120px;
   margin-right: 100px;
+  margin-left: 100px;
 }
 .card-title-t {
   font-family: Mulish;
@@ -65,4 +66,7 @@
   font-size: 16px;
   line-height: 28px;
   color: #8d8d8d;
+}
+i {
+  color: #ff723d;
 }

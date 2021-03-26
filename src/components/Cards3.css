@@ -1,0 +1,47 @@
+.blog-container {
+  margin-top: 50px;
+}
+.blog-card {
+  margin: auto;
+}
+
+.blog-img {
+  width: 400px;
+  height: 200px;
+}
+
+.blog-title {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 32px;
+  color: #000000;
+}
+.blog-subtitle {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 34px;
+  color: #000000;
+}
+#blogpost {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 42px;
+  color: #000000;
+}
+#viewall {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 28px;
+  cursor: pointer;
+  color: #92d2d9;
+  text-align: right;
+  margin: auto;
+}

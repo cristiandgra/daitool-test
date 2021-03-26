@@ -26,7 +26,12 @@ export const Carousel2 = () => {
               </Card.Subtitle>
               <Card.Text className="card-text1">$300.98 </Card.Text>
               <Card.Text className="card-text2">$350.98</Card.Text>
-              <Card.Text>⭐️⭐️⭐️⭐️</Card.Text>
+              <Card.Text>
+                <i class="bi bi-star-fill"></i>
+                <i class="bi bi-star-fill"></i>
+                <i class="bi bi-star-fill"></i>
+                <i class="bi bi-star-fill"></i>
+              </Card.Text>
             </Card.Body>
           </Card>
           <Card className="card3">
@@ -38,7 +43,12 @@ export const Carousel2 = () => {
               </Card.Subtitle>
               <Card.Text className="card-text1">$300.98 </Card.Text>
               <Card.Text className="card-text2">$350.98</Card.Text>
-              <Card.Text>⭐️⭐️⭐️⭐️</Card.Text>
+              <Card.Text>
+                <i class="bi bi-star-fill"></i>
+                <i class="bi bi-star-fill"></i>
+                <i class="bi bi-star-fill"></i>
+                <i class="bi bi-star-fill"></i>
+              </Card.Text>
             </Card.Body>
           </Card>
           <Card className="card3">
@@ -50,7 +60,12 @@ export const Carousel2 = () => {
               </Card.Subtitle>
               <Card.Text className="card-text1">$300.98 </Card.Text>
               <Card.Text className="card-text2">$350.98</Card.Text>
-              <Card.Text>⭐️⭐️⭐️⭐️</Card.Text>
+              <Card.Text>
+                <i class="bi bi-star-fill"></i>
+                <i class="bi bi-star-fill"></i>
+                <i class="bi bi-star-fill"></i>
+                <i class="bi bi-star-fill"></i>
+              </Card.Text>
             </Card.Body>
           </Card>
           <Card className="card3">
@@ -62,7 +77,12 @@ export const Carousel2 = () => {
               </Card.Subtitle>
               <Card.Text className="card-text1">$300.98 </Card.Text>
               <Card.Text className="card-text2">$350.98</Card.Text>
-              <Card.Text>⭐️⭐️⭐️⭐️</Card.Text>
+              <Card.Text>
+                <i class="bi bi-star-fill"></i>
+                <i class="bi bi-star-fill"></i>
+                <i class="bi bi-star-fill"></i>
+                <i class="bi bi-star-fill"></i>
+              </Card.Text>
             </Card.Body>
           </Card>
         </Row>
