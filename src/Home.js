@@ -4,6 +4,7 @@ import { Cards2 } from "./components/Cards2";
 import { Cards3 } from "./components/Cards3";
 import { Car1 } from "./components/Carousel";
 import { Carousel2 } from "./components/Carousel2";
+import { JumboFooter } from "./components/JumboFooter";
 
 import { Jumbo } from "./ui/Jumbotron";
 import { Jumbo2 } from "./ui/Jumbotron2";
@@ -22,6 +23,7 @@ export const Home = () => {
       <Cards2 />
       <Carousel2 />
       <Cards3 />
+      <JumboFooter />
     </div>
   );
 };

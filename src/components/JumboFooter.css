@@ -1,0 +1,31 @@
+#jumbofoot {
+  background-image: url("../img/bg-newsletter.png");
+  margin-top: 150px;
+  height: 100%;
+  width: 100%;
+}
+#jumbofoth1 {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 80px;
+  line-height: 200px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  padding-left: 10%;
+  padding-top: 10%;
+  margin-bottom: 0px;
+  height: 200px;
+}
+#btnjumbof {
+  background: #ff723d;
+  border-radius: 10px;
+  border: none;
+  margin-bottom: 100px;
+  width: 180px;
+  height: 60px;
+  margin-left: 10%;
+  margin-top: 2%;
+}
