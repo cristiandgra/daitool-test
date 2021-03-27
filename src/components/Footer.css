@@ -1,0 +1,115 @@
+.main-footer {
+  margin-top: 75px;
+}
+
+#youtube {
+  font-size: 21px;
+  padding: 7px;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-right: 7px;
+  background-color: rgba(203, 203, 203, 0.23);
+}
+#linkedin {
+  font-size: 21px;
+  padding: 7px;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-right: 7px;
+  background-color: rgba(203, 203, 203, 0.23);
+}
+#twitter {
+  font-size: 21px;
+  padding: 7px;
+  margin-right: 7px;
+  cursor: pointer;
+  border-radius: 10px;
+  background-color: rgba(203, 203, 203, 0.23);
+}
+#facebook {
+  font-size: 21px;
+  padding: 7px;
+  margin-right: 7px;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: rgba(203, 203, 203, 0.23);
+}
+#instagram {
+  font-size: 21px;
+  padding: 7px;
+  margin-right: 7px;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: rgba(203, 203, 203, 0.23);
+}
+.logo-black {
+  padding: 0px;
+  width: 161px;
+  height: 36px;
+  margin-bottom: 30px;
+}
+
+.daitool-text {
+  font-family: Mulish;
+  font-size: 16px;
+  line-height: 28px;
+  color: #232323;
+  width: 290px;
+}
+
+li {
+  color: rgba(0, 0, 0, 0.7);
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 44px;
+}
+
+#payments {
+  padding-left: 400px;
+  color: #5c5c5c;
+  font-family: Mulish;
+  font-size: 16px;
+}
+
+.p-contact {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 28px;
+  color: #232323;
+}
+.p-question {
+  color: #000000;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 28px;
+}
+.p-number {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 28px;
+  color: #ff7020;
+  position: relative;
+  top: -8%;
+}
+
+.btn-contact {
+  background-color: #ffffff;
+  color: #92d2d9;
+  font-family: Mulish;
+  font-size: 18px;
+  border: 1px solid #92d2d9;
+  box-sizing: border-box;
+  border-radius: 12px;
+  letter-spacing: 0.05em;
+  position: relative;
+  left: 52%;
+  top: -29%;
+}

@@ -5,6 +5,7 @@ import { Cards2 } from "./components/Cards2";
 import { Cards3 } from "./components/Cards3";
 import { Car1 } from "./components/Carousel";
 import { Carousel2 } from "./components/Carousel2";
+import { Footer } from "./components/Footer";
 import { JumboFooter } from "./components/JumboFooter";
 import { JumboFooter2 } from "./components/JumboFooter2";
 
@@ -27,6 +28,7 @@ export const Home = () => {
       <Cards3 />
       <JumboFooter />
       <JumboFooter2 />
+      <Footer />
     </div>
   );
 };

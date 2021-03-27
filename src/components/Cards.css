@@ -4,6 +4,7 @@
   margin: 10px;
   border: none;
   width: 380px;
+  cursor: pointer;
 }
 
 .card-title {
