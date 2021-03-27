@@ -13,12 +13,14 @@ export const Car1 = () => {
   return (
     <Carousel className="car1">
       <Carousel.Item className="caritem1">
+        <i id="carleft1" class="bi bi-chevron-left"></i>
         <img className="carousel1" src={Pentel} alt="First slide" />
         <img className="carousel1" src={Olfa} alt="First slide" />
         <img className="carousel1" src={Vessel} alt="First slide" />
         <img className="carousel1" src={Mitutoyo} alt="First slide" />
         <img className="carousel1" src={Tone} alt="First slide" />
         <img className="carousel1" src={Anex} alt="First slide" />
+        <i id="caright1" class="bi bi-chevron-right"></i>
       </Carousel.Item>
     </Carousel>
   );

@@ -20,3 +20,19 @@ img {
   width: 100px;
   height: 100px;
 }
+#carleft1 {
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.16);
+  cursor: pointer;
+}
+#caright1 {
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.16);
+  cursor: pointer;
+}
+#carleft1:hover {
+  color: black;
+}
+#caright1:hover {
+  color: black;
+}

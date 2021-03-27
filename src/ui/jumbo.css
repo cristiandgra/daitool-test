@@ -2,15 +2,16 @@
   height: 620px;
   background-image: url("../img/tools.png");
 }
-
+.jumbo-container {
+  width: 30%;
+}
 #j1h1 {
   color: #ffffff;
   font-family: Mulish;
   font-size: 68px;
   position: relative;
   height: 96.88px;
-  width: 100%;
-  left: 65%;
+  left: 1080px;
   top: 220px;
 }
 #j1h2 {
@@ -21,7 +22,7 @@
   font-weight: lighter;
   position: relative;
   height: 125.31px;
-  left: 74.86%;
+  left: 1300px;
   right: 14.47%;
   top: 180px;
 }
@@ -32,7 +33,7 @@
   background: none;
   position: absolute;
   height: 28.43px;
-  left: 77.1%;
+  left: 69%;
   right: 14.89%;
   top: 590px;
 

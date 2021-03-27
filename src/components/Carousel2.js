@@ -14,6 +14,10 @@ export const Carousel2 = () => {
               <Card.Title className="card-title-t">
                 This Weeks Top 10 Selected Products
               </Card.Title>
+              <Card.Text>
+                <i id="left" class="bi bi-chevron-left"></i>
+                <i id="right" class="bi bi-chevron-right"></i>
+              </Card.Text>
             </Card.Body>
           </Card>
 
@@ -24,6 +28,7 @@ export const Carousel2 = () => {
               <Card.Subtitle className="card-subtitle-3">
                 Brief description
               </Card.Subtitle>
+
               <Card.Text className="card-text1">$300.98 </Card.Text>
               <Card.Text className="card-text2">$350.98</Card.Text>
               <Card.Text>
