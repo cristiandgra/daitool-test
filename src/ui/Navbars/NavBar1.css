@@ -8,6 +8,22 @@
   width: 529px;
   height: 20px;
   border-radius: 20px;
+  position: relative;
+  left: -10%;
+}
+
+.person-container {
+  color: white;
+  position: relative;
+  right: 2%;
+  cursor: pointer;
+  top: -3px;
+}
+.cart-container {
+  color: white;
+  position: relative;
+  right: 1%;
+  cursor: pointer;
 }
 #person {
   font-size: 35px;
@@ -23,7 +39,7 @@
   font-size: 14px;
   width: 84px;
   height: 18px;
-  margin-left: 10px;
-  padding-top: 40px;
+  padding-right: 20px;
+  padding-top: 27px;
   cursor: pointer;
 }

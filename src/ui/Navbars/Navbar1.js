@@ -1,7 +1,7 @@
 import React from "react";
 import { Navbar, Form, FormControl } from "react-bootstrap";
-import "./navbar1.css";
-import logo from "../img/logo.svg";
+import "./NavBar1.css";
+import logo from "../../img/logo.svg";
 
 export const Navbar1 = () => {
   return (
@@ -17,13 +17,13 @@ export const Navbar1 = () => {
           placeholder=""
         />
       </Form>
-      <div style={{ display: "flex", flexDirection: "column" }}>
+      <div className="person-container">
         <i className="bi bi-person" id="person"></i>
-        <span style={{ color: "white" }}>Sign in</span>
+        <p>Sign in</p>
       </div>
-      <div style={{ display: "flex", flexDirection: "column" }}>
+      <div className="cart-container">
         <i className="bi bi-cart2" id="cart"></i>
-        <span style={{ color: "white" }}>Cart</span>
+        <p>Cart</p>
       </div>
       <p id="usd"> EN | USD</p>
     </Navbar>

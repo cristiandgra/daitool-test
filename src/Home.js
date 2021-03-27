@@ -11,8 +11,8 @@ import { JumboFooter2 } from "./components/JumboFooter2";
 
 import { Jumbo } from "./ui/Jumbotron";
 import { Jumbo2 } from "./ui/Jumbotron2";
-import { Navbar1 } from "./ui/Navbar";
-import { Navbar2 } from "./ui/Navbar2";
+import { Navbar1 } from "./ui/Navbars/Navbar1";
+import { Navbar2 } from "./ui/Navbars/Navbar2";
 
 export const Home = () => {
   return (

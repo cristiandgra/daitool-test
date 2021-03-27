@@ -6,15 +6,43 @@
 #j1h1 {
   color: #ffffff;
   font-family: Mulish;
+  font-size: 68px;
+  position: relative;
+  height: 96.88px;
+  width: 100%;
+  left: 65%;
+  top: 220px;
 }
 #j1h2 {
   color: #ffffff;
   font-family: Mulish;
-  font-style: ExtraLight;
+  width: 100%;
+  font-size: 68px;
+  font-weight: lighter;
+  position: relative;
+  height: 125.31px;
+  left: 74.86%;
+  right: 14.47%;
+  top: 180px;
 }
 .btn-jumbo {
   color: #ff723d;
-  text-decoration: underline;
+
   border: none;
   background: none;
+  position: absolute;
+  height: 28.43px;
+  left: 77.1%;
+  right: 14.89%;
+  top: 590px;
+
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 200px;
+  display: flex;
+  align-items: center;
+  text-align: right;
+  text-decoration-line: underline;
 }
