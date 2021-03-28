@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d1b5c31.chunk.css",
+    "main.js": "/static/js/main.336d5699.chunk.js",
+    "main.js.map": "/static/js/main.336d5699.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.69d4b594.js",
+    "runtime-main.js.map": "/static/js/runtime-main.69d4b594.js.map",
+    "static/js/2.64d75137.chunk.js": "/static/js/2.64d75137.chunk.js",
+    "static/js/2.64d75137.chunk.js.map": "/static/js/2.64d75137.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9d1b5c31.chunk.css.map": "/static/css/main.9d1b5c31.chunk.css.map",
+    "static/js/2.64d75137.chunk.js.LICENSE.txt": "/static/js/2.64d75137.chunk.js.LICENSE.txt",
+    "static/media/JumboFooter.css": "/static/media/bg-newsletter.4646cdb6.png",
+    "static/media/blog-post.99945a0f.png": "/static/media/blog-post.99945a0f.png",
+    "static/media/jumbo2.css": "/static/media/card.a21bf213.png",
+    "static/media/circular-saw.b3a5be8f.png": "/static/media/circular-saw.b3a5be8f.png",
+    "static/media/gardening-cat.26fc111f.png": "/static/media/gardening-cat.26fc111f.png",
+    "static/media/janitorial.2370e703.png": "/static/media/janitorial.2370e703.png",
+    "static/media/logo.48f7be5d.svg": "/static/media/logo.48f7be5d.svg",
+    "static/media/office-supples.3fa6a89e.png": "/static/media/office-supples.3fa6a89e.png",
+    "static/media/safety.2815c0e4.png": "/static/media/safety.2815c0e4.png",
+    "static/media/tools-cat.5ed0065c.png": "/static/media/tools-cat.5ed0065c.png",
+    "static/media/jumbo.css": "/static/media/tools.bd0fd02d.png",
+    "static/media/woodworking.8bc3442b.png": "/static/media/woodworking.8bc3442b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69d4b594.js",
+    "static/js/2.64d75137.chunk.js",
+    "static/css/main.9d1b5c31.chunk.css",
+    "static/js/main.336d5699.chunk.js"
+  ]
+}
