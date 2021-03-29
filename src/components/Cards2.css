@@ -6,6 +6,7 @@
   border: 1px solid #e7e7e7;
   border-radius: 14px;
   width: 18%;
+  min-width: 200px;
 }
 
 .card-img-top {
@@ -23,6 +24,8 @@
   line-height: 32px;
   color: #000000;
   text-align: center;
+  margin: auto;
+  min-width: 150px;
 }
 .card-subtitle-2 {
   font-family: Mulish;
@@ -32,4 +35,6 @@
   line-height: 24px;
   text-align: center;
   color: #c4c4c4;
+  margin: auto;
+  min-width: 150px;
 }
