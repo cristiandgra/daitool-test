@@ -45,3 +45,8 @@
   text-align: right;
   margin: auto;
 }
+@media (min-width: 360px) {
+  .blog-card {
+    margin-bottom: 115px;
+  }
+}

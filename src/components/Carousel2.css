@@ -26,6 +26,7 @@
   font-size: 30px;
   line-height: 42px;
   color: #000000;
+  margin: auto;
 }
 .card-text1 {
   font-family: Mulish;
@@ -34,6 +35,7 @@
   font-size: 20px;
   line-height: 28px;
   color: #ff723d;
+  margin: auto;
 }
 .card-text2 {
   font-family: Mulish;
@@ -56,6 +58,7 @@
   height: 285px;
   left: 32px;
   top: 16px;
+  margin: auto;
 }
 .card-title-3 {
   font-family: Mulish;
@@ -64,6 +67,7 @@
   font-size: 24px;
   line-height: 32px;
   color: #000000;
+  margin: auto;
 }
 .card-subtitle-3 {
   font-family: Mulish;
@@ -72,9 +76,11 @@
   font-size: 16px;
   line-height: 28px;
   color: #8d8d8d;
+  margin: auto;
 }
 i {
   color: #ff723d;
+  margin: auto;
 }
 #left {
   border: 1px solid #ff723d;
